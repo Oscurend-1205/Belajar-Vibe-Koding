@@ -1,0 +1,9 @@
+buatkan file issue.d berisi planning untuk membuat aplikaksi 
+buat project baru di folder ini menggunakan bun 
+
+dan gunakan depedency
+-ElysiaJS
+-Drizzle
+-Mysql
+
+Planning Jangan terlalu detail, cukup instruksikan high level saja, nanti dokumen planningnya akan digunakan ole programmer junior atau yg lebih mudah di implementasikan
